@@ -1,0 +1,112 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+
+}
+
+.logo {
+  width:100px;
+  margin: 0 auto;
+}
+.title {
+         font-family: Arial, sans-serif;
+         color: #545454;
+         font-size: 18px;
+         font-weight: 400;
+         text-align: center;
+}
+
+.subtitle {
+            font-family: Arial;
+            color: #545454;
+            font-size: 18px;
+            font-weight: 400;
+            text-align: center;
+}
+
+.loginfield{
+  background-color:lightgrey;
+  width:400px;
+  margin: 0 auto;
+
+}
+
+.loginimg {
+          width: 200px;
+          overflow: hidden;
+          border-radius: 50%;
+          margin-left: auto;
+          margin-right: auto;
+          margin-bottom: 10px;
+}
+
+.loginform {
+            text-align: center;
+
+}
+
+#Email {
+        font-family: Arial;
+        color: #545454;
+        font-size: 16px;
+        font-weight: 400;
+        width: 90%;
+
+}
+
+#Password {
+            font-family: Arial;
+            color: #545454;
+            font-size: 16px;
+            font-weight: 400;
+            width: 90%;
+}
+
+button {
+        font-family: Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        color: white;
+        background-color: #4d90fe;
+        width: 90%;
+        height: 36px;
+        margin-bottom: 10px;
+        position: relative;
+        box-sizing: border-box;
+
+
+}
+
+.findacc {
+          font-size: 14px;
+          font-family: Arial, sans-serif;
+          color: #427fed;
+          cursor: pointer;
+          text-decoration: underline;
+          text-align: right;
+
+}
+
+.createacc {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            color: #427fed;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            margin: 0 auto;
+
+}
+
+.slogan {
+          font-family: Arial, sans-serif;
+          font-size: 14px;
+          color: #545454;
+          text-align: center;
+
+}
+
+.logostrip {
+            width:100px;
+            margin: 0 auto;
+}
